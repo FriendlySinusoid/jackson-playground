@@ -27,7 +27,7 @@ public class Student {
 	private final double gpa;
 
 	/**
-	 * Default constructor.
+	 * Default construct    or.
 	 *
 	 * @param grade The grade level this student is in.
 	 * @param name  This student's name.
@@ -40,6 +40,7 @@ public class Student {
 		this.name = name;
 		this.gpa = gpa != null ? gpa : 4.0;
 	}
+
 
 	/**
 	 * @return The grade level this student is in.

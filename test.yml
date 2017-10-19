@@ -1,0 +1,8 @@
+---
+classname: "solar system"
+planets:
+    - Planet:
+        '@id': earth
+        name: "Earth"
+        mass: 6000000000000000000000000
+        inp: 1f,25,5123123.19f,134,13412
